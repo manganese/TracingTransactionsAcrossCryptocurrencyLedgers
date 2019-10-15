@@ -7,6 +7,7 @@ This is the source code used in the research paper:
     Usenix Security 2019
     https://arxiv.org/abs/1810.12786
 
+All authors are supported by the EUH2020 TITANIUM project under grant agreement number 740558.
 
 Please read this ```readme.md``` from start to finish before attempting
 any of this analysis.

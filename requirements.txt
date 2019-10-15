@@ -1,0 +1,8 @@
+requests
+matplotlib
+pandas
+python-bitcoinrpc
+awsglue
+pyspark
+numpy
+pprint

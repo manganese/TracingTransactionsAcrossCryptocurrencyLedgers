@@ -9,6 +9,8 @@ This is the source code used in the research paper:
 
 All authors are supported by the EUH2020 TITANIUM project under grant agreement number 740558.
 
+[![DOI](https://zenodo.org/badge/215335122.svg)](https://zenodo.org/badge/latestdoi/215335122)
+    
 Please read this ```readme.md``` from start to finish before attempting
 any of this analysis.
 
